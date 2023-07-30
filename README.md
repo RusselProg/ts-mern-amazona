@@ -10,3 +10,9 @@
 6. create github account
 7. connect vs code to github
 8. publish repository
+
+9. List Products
+10. create Product type
+11. create products array
+12. add product images
+13. render products
